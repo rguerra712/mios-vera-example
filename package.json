@@ -1,0 +1,16 @@
+{
+  "name": "mios-vera-example",
+  "version": "1.0.0",
+  "description": "An example of how to use mios vera home automation using maker and webtask (from IFTTT) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "maker-webtask": "^1.0.14",
+    "mios-vera": "^1.0.0"
+  }
+}
